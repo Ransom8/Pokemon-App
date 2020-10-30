@@ -1,0 +1,23 @@
+<resources>
+    <string name="title_activity_base">BaseActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="app_name">PokemonApp</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pikachu">Pikachu</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="type">Type</string>
+    <string name="species">Species</string>
+    <string name="base_experience">Base Experience</string>
+    <string name="picachu_will_be_back_soon">Picachu will be back as soon as network is back...</string>
+    <string name="pokemon_image">pokemon_image</string>
+    <string name="pokemon_go">POKEMON GO!</string>
+</resources>
